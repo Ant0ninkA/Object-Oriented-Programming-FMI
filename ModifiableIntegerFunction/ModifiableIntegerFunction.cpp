@@ -1,6 +1,4 @@
-﻿#include "зад2.h"
-
-//задачата е обсъждана с Димитър Радев, 2ра група
+﻿#include "ModifiableIntegerFunction.h"
 
 ModifiableIntegerFunction::ModifiableIntegerFunction(short(*func)(short)) {
 	data = new short[MAX_ELEMENTS];
