@@ -1,6 +1,6 @@
 #pragma once
 #include <iostream>
-#include "зад2.h"
+#include "ModifiableIntegerFunction.h"
 
 short func1(short x) {
 	return x + 1;
